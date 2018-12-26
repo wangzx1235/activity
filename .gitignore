@@ -1,0 +1,20 @@
+/bin/
+/target/
+/catalina.base_IS_UNDEFINED/
+.*
+*.class
+/build/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.MF
+*.ini
+
+*.iml
+*.projet
+*.classpath
+*.settings
+
+!.gitignore
